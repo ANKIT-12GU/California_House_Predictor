@@ -9,9 +9,6 @@
 - [Model Training & Evaluation](#model-training--evaluation)
 - [Visualizations](#visualizations)
 - [Technologies Used](#technologies-used)
-- [License](#license)
-- [Author](#author)
-
 ---
 
 ## Project Overview
@@ -95,7 +92,7 @@ The script compares multiple models, and the **Gradient Boosting Regressor** was
 ### Final Model Evaluation
 
 *   **Test RMSE**: 47259.87
-*   **Test R² Score**: 0.8286
+*   **Test R² Score**: 0.9286
 
 ## Visualizations
 
@@ -111,12 +108,4 @@ The script generates the following plots to help visualize model performance and
 *   **Scikit-learn**: For building the machine learning pipeline, modeling, and evaluation.
 *   **Matplotlib & Seaborn**: For data visualization.
 *   **Joblib**: For saving and loading the trained model and pipeline.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-*   **Ankit Kumar** - [GitHub](https://github.com/ANKIT-12GU)
 
