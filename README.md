@@ -1,4 +1,3 @@
-readme_content = """
 # California_House_Predictor 🏠
 
 **California_House_Predictor** is a machine learning project for predicting house prices in California using advanced regression models and a robust data preprocessing pipeline. This project automates data cleaning, feature engineering, model selection, training, evaluation, and inference.
@@ -11,12 +10,11 @@ readme_content = """
 - [Dataset](#dataset)  
 - [Installation](#installation)  
 - [Usage](#usage)  
-- [Model Training](#model-training)  
-- [Inference](#inference)  
-- [Evaluation](#evaluation)  
+- [Model Training & Evaluation](#model-training--evaluation)  
 - [Visualizations](#visualizations)  
 - [Technologies Used](#technologies-used)  
 - [License](#license)  
+- [Author](#author)  
 
 ---
 
@@ -59,3 +57,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/<your_username>/California_House_Predictor.git
 cd California_House_Predictor
+```
