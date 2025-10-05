@@ -98,7 +98,8 @@ The script compares multiple models, and the **Gradient Boosting Regressor** was
 
 The script generates the following plots to help visualize model performance and data insights:
 1.  **Predicted vs. Actual Values**: A scatter plot to compare the model's predictions against the actual housing values.
-2.  **Feature Importance**: A bar plot showing the most influential features for the best-performing model.
+   ![A chart showing project growth](./regression model performance.png)
+3.  **Feature Importance**: A bar plot showing the most influential features for the best-performing model.
 
 ## Technologies Used
 
