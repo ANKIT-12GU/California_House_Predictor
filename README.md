@@ -98,8 +98,7 @@ The script compares multiple models, and the **Gradient Boosting Regressor** was
 
 The script generates the following plots to help visualize model performance and data insights:
 1.  **Predicted vs. Actual Values**: A scatter plot to compare the model's predictions against the actual housing values.
-![Regression Model Performance](https://github.com/ANKIT-12GU/California_House_Predictor/blob/7abc3026872f8b1862e2527b15cbbfcdcb7d5700/regression%20model%20performance.png?raw=true)
-3.  **Feature Importance**: A bar plot showing the most influential features for the best-performing model.
+2.  **Feature Importance**: A bar plot showing the most influential features for the best-performing model.
 ![Feature Importance](https://github.com/ANKIT-12GU/California_House_Predictor/blob/3d4fab7dceac221a87bb450dbb0659888912d211/Features_Importance.png?raw=true)
 ## Technologies Used
 
